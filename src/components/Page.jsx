@@ -45,7 +45,7 @@ const Page = () => {
               animate={{ scale: 1, opacity: 1 }}
               transition={{ type: "spring", stiffness: 100 }}
             >
-              🎉 Happy Birthday, Mani! 🎂
+              🎉 Awais is wishing you Happy Birthday! 🎂
             </motion.h1>
 
             <motion.p
